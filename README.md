@@ -1,2 +1,2 @@
 # mi-segundo-repositorio
-Mi segundo repositorio aprendiendi github para el curso de freecodecamp
+Mi segundo repositorio aprendiendo github para el curso de freecodecamp
